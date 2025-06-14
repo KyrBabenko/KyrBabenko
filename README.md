@@ -1,15 +1,15 @@
-# Kyrylo Babenko  
-### Android Developer | 6+ Years Experience  
+# Kir B.
+### Android Developer | 7+ Years Experience  
 
 📞 +40 735 331 674  
-⏳ GMT+2  
+⏳ GMT+2
 ✉️ [kyr.babenko@gmail.com](mailto:kyr.babenko@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kyr-babenko/) | [GitHub](https://github.com/KyrBabenko)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kir-bi/) | [GitHub](https://github.com/KyrBabenko)  
 
 ---
 
 ## 📌 About  
-I am an **Android Developer** with **6+ years of experience** in startups and large corporations. I specialize in **building scalable and high-performance Android apps**, optimizing user experience, and automating development workflows.  
+I am an **Android Developer** with **7+ years of experience** in startups and large corporations. I specialize in **building scalable and high-performance Android apps**, optimizing user experience, and automating development workflows.  
 
 - 🔹 **2+ years of team-leading experience** (mentorship, code reviews, architectural decisions)  
 - 🔹 **Proficient in Clean Architecture**, MVI, Jetpack Compose, and CI/CD automation  
