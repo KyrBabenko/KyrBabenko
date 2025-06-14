@@ -3,8 +3,7 @@
 
 📞 +40 735 331 674  
 ⏳ GMT+2
-✉️ [kyr.babenko@gmail.com](mailto:kyr.babenko@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kir-bi/) | [GitHub](https://github.com/KyrBabenko)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kir-bi/)
 
 ---
 
