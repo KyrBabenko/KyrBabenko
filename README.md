@@ -3,7 +3,7 @@
 
 📞 +40 735 331 674  
 ⏳ GMT+2
-🔗 [LinkedIn](https://www.linkedin.com/in/kir-bi/)
+🔗 [LinkedIn](https://www.linkedin.com/in/kir-bi/) [GitHub](https://github.com/kir-bi)
 
 ---
 
